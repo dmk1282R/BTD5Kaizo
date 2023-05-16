@@ -26,6 +26,9 @@ Annoying ZOMG: 6000 hp, has immunity to explosives, fire, ice, Juggernaut, MOAB 
 
 Bee Bloon: Does nothing for now, first custom texture bloon in this mod so thats fun!
 
-More to come...
+Purple Bloon: btd6 bloon. (might retexture)
 
-IK MY DDT LOOKS BAD, ITS MEANT TO OK!
+DDT: btd6 bloon. (Better Texture now lol)
+
+
+More to come...
