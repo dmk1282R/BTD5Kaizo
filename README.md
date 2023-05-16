@@ -24,6 +24,8 @@ DDT Carrier: 3500 hp, Drops 2 ddts
 
 Annoying ZOMG: 6000 hp, has immunity to explosives, fire, ice, Juggernaut, MOAB Mauler (IS CAMO{{NOT YET THO}}) Drops Plasma MOAB and Bleeched BFB
 
+Bee Bloon: Does nothing for now, first custom texture bloon in this mod so thats fun!
+
 More to come...
 
 IK MY DDT LOOKS BAD, ITS MEANT TO OK!
